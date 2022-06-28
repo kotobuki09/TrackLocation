@@ -1,4 +1,4 @@
-,Max_RSSI_VLC,Min_RSSI_VLC,Std_RSSI_VLC,link_quality_wifi,signal_level_wifi,noise_level_wifi,previous_status,handover_decision
+,Max_RSSI_VLC,Min_RSSI_VLC,Std_RSSI_VLC,link_quality_wifi,signal_level_wifi,noise_level_wifi,current_status,handover_decision
 0,1035,1016,3,85,-21,0,1,2
 1,1891,90,561,95,-20,0,1,1
 2,1035,1013,3,100,-20,0,0,3
